@@ -78,7 +78,8 @@ VALUES(:codigo,:descripcion,:precio,:fecha
       }
       return $id;
     } catch (PDOException $th) {
-      //throw $th;
+      $msg = $th->getMessage();
+      throw $th;
     } finally {
       $pdo = null;
     }
