@@ -1,9 +1,9 @@
 <?php
 
-namespace Leandro\app\modelo;
+namespace Empresa\App\Modelo;
 
 use PDOException;
-use Leandro\app\libs\Conexion;
+use Empresa\App\Libs\Conexion;
 
 class Producto
 {

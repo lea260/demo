@@ -2,8 +2,8 @@
 
 
 
-use Leandro\app\modelo\Producto;
-use Leandro\app\libs\Controlador;
+use Empresa\App\Modelo\Producto;
+use Empresa\App\Libs\Controlador;
 
 
 class Producto_Controller extends Controlador

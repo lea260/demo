@@ -1,6 +1,6 @@
 <?php
 
-namespace Leandro\app\libs;
+namespace Empresa\App\Libs;
 
 class Controlador
 {

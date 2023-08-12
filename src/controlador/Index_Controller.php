@@ -1,6 +1,6 @@
 <?php
 
-use Leandro\app\libs\Controlador;
+use Empresa\App\Libs\Controlador;
 
 
 class Index_Controller extends Controlador

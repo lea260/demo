@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <h1>pagina principal vista</h1>
+  <h1>pagina principal demo</h1>
   <?php
   require 'src/vista/menu.php'; ?>
   <p><?php var_dump($this->datos); ?></p>

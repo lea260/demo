@@ -1,7 +1,7 @@
 <?php
 
-use Leandro\app\libs\Controlador;
-use Leandro\app\modelo\Persona;
+use Empresa\App\Modelo\Persona;
+use Empresa\App\Libs\Controlador;
 
 class Persona_Controller extends Controlador
 {

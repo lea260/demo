@@ -4,7 +4,7 @@
     "description": "descripcion",
     "autoload": {
         "psr-4": {
-            "Leandro\\app\\": "src/"
+            "Empresa\\App\\": "src/"
         }
     },
     "require": {}
